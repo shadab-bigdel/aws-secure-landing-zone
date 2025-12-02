@@ -1,0 +1,2 @@
+This project demonstrates my ability to design and implement a secure AWS multi-account Landing Zone.
+The goal is to apply cloud security best practices, governance guardrails, centralized logging, and identity management using AWS native services and Terraform.
