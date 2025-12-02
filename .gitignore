@@ -1,0 +1,12 @@
+# Obsidian folders
+.obsidian/
+.obsidian/workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
