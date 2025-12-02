@@ -34,3 +34,13 @@ The goal is to apply cloud security best practices, governance guardrails, centr
 
 ## Work Log
 2025-01-15 — Created repository structure and Obsidian project note
+
+2025-01-15 — Created repository structure and Obsidian project 
+
+2025-01-15 — Created repository structure and Obsidian project note
+
+2025-01-16 — Created initial architecture diagram (v1)
+
+2025-01-16 — Added CloudTrail disable SCP + related note
+
+
