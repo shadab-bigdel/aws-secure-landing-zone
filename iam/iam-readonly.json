@@ -1,0 +1,23 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "ReadOnly",
+      "Effect": "Allow",
+      "Action": [
+        "ec2:Describe*",
+        "s3:List*",
+        "s3:Get*",
+        "iam:List*",
+        "iam:Get*",
+        "logs:Describe*",
+        "logs:Get*",
+        "cloudtrail:Describe*",
+        "cloudtrail:Get*",
+        "organizations:Describe*",
+        "organizations:List*"
+      ],
+      "Resource": "*"
+    }
+  ]
+}

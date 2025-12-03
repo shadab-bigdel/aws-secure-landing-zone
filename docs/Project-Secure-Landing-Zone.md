@@ -43,4 +43,6 @@ The goal is to apply cloud security best practices, governance guardrails, centr
 
 2025-01-16 — Added CloudTrail disable SCP + related note
 
+2025-01-17 — Added OU structure, terraform skeleton
+
 

@@ -1,0 +1,23 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "InvestigateSecurityIssues",
+      "Effect": "Allow",
+      "Action": [
+        "cloudtrail:LookupEvents",
+        "logs:Get*",
+        "logs:Describe*",
+        "s3:Get*",
+        "s3:List*",
+        "iam:GenerateServiceLastAccessedDetails",
+        "iam:GetServiceLastAccessedDetails",
+        "ec2:Describe*",
+        "kms:ListKeys",
+        "kms:DescribeKey",
+        "kms:GetKeyRotationStatus"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
