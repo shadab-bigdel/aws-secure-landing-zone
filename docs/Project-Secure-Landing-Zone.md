@@ -45,4 +45,6 @@ The goal is to apply cloud security best practices, governance guardrails, centr
 
 2025-01-17 — Added OU structure, terraform skeleton
 
+2025-01-17 — Added baseline IAM role policies (breakglass, readonly, secops)
+
 
