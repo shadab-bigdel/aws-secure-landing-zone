@@ -18,3 +18,16 @@ output "workloads_ou_id" {
   value = module.organization.workloads_ou_id
 }
 
+output "breakglass_role_arn" {
+  value = module.iam.breakglass_role_arn
+}
+
+output "readonly_role_arn" {
+  value = module.iam.readonly_role_arn
+}
+
+output "secops_role_arn" {
+  value = module.iam.secops_role_arn
+}
+
+
